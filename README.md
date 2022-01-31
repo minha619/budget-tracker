@@ -5,7 +5,7 @@ A budget tracker application that allows offline access and functionality. The u
 
 ## Website
 
-- [Heroku App](https://ancient-tor-39841.herokuapp.com/)
+- [Heroku App](https://minha619-budget-tracker.herokuapp.com/)
 - [Github Repo](https://github.com/minha619/budget-tracker.git)
 
 ## Screenshot
